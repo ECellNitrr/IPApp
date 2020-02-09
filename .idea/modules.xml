@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Internship Portal.iml" filepath="$PROJECT_DIR$/Internship Portal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internship_portal.iml" filepath="$PROJECT_DIR$/internship_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/internship_portal_android.iml" filepath="$PROJECT_DIR$/android/internship_portal_android.iml" />
     </modules>
   </component>
 </project>
